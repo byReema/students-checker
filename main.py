@@ -1,6 +1,6 @@
-from grading import is_valid_score, classify_score, score_average
-from report_writer import create_report, save_report
-from advice import advcie_generator
+from student_performance_checker.grading import is_valid_score, classify_score, score_average
+from student_performance_checker.report_writer import create_report, save_report
+from student_performance_checker.advice import advcie_generator
 
 # program will start from here
 
